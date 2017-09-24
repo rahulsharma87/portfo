@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Naweel Anwer
-email: naweel.a1496@gmail.com
+title: Rahul Sharma
+email: juristrahulsharma@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://naweel1496.github.io" # the base hostname & protocol for your site
-twitter_username: naweel_anwer
-github_username:  naweel1496
+twitter_username: 
+github_username:  rahulsharma87
 
 permalink:  none
 
@@ -23,10 +23,10 @@ permalink: none
 
 # URLS
 link_to:
-  facebook:        https://www.facebook.com/nabeel.A1496
-  github:          https://github.com/naweel1496
-  twitter:         https://twitter.com/naweel_anwer
-  linkedin:        https://www.linkedin.com/in/naweel1496/
-  github_profile_pic: https://avatars0.githubusercontent.com/u/16776409?v=3&u=229e157816bb7facefa101872d86981092ac680e&s=400
+  facebook:        https://www.facebook.com/rahul.sharman.5
+  github:          https://github.com/rahulsharma87
+  twitter:         
+  linkedin:        
+  github_profile_pic: http://www.khmertimeskh.com/wp-content/uploads/2017/08/privacy.jpg
 
 theme: jekyll-theme-slate
